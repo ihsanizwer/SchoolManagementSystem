@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E034966-9CBB-41D0-991F-88BB4FD484B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMSystemNew</RootNamespace>
+    <AssemblyName>SMSystemNew</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\MetroFramework_Version1.3.5\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\MetroFramework_Version1.3.5\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>H:\MetroFramework_Version1.3.5\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admission.Designer.cs">
+      <DependentUpon>admission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admissionfinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admissionfinal.Designer.cs">
+      <DependentUpon>admissionfinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionManager.cs" />
+    <Compile Include="DBAccess.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedIn.cs" />
+    <Compile Include="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payment.Designer.cs">
+      <DependentUpon>payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="studentfinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentfinal.Designer.cs">
+      <DependentUpon>studentfinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admission.resx">
+      <DependentUpon>admission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admissionfinal.resx">
+      <DependentUpon>admissionfinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payment.resx">
+      <DependentUpon>payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="studentfinal.resx">
+      <DependentUpon>studentfinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bisdbDataSet.xsc">
+      <DependentUpon>bisdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet.xss">
+      <DependentUpon>bisdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet1.xsc">
+      <DependentUpon>bisdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet1.xss">
+      <DependentUpon>bisdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet10.xsc">
+      <DependentUpon>bisdbDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet10.xss">
+      <DependentUpon>bisdbDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet11.xsc">
+      <DependentUpon>bisdbDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet11.xss">
+      <DependentUpon>bisdbDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet12.xsc">
+      <DependentUpon>bisdbDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet12.xss">
+      <DependentUpon>bisdbDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet13.xsc">
+      <DependentUpon>bisdbDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet13.xss">
+      <DependentUpon>bisdbDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet14.xsc">
+      <DependentUpon>bisdbDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet14.xss">
+      <DependentUpon>bisdbDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet15.xsc">
+      <DependentUpon>bisdbDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet15.xss">
+      <DependentUpon>bisdbDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet2.xsc">
+      <DependentUpon>bisdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet2.xss">
+      <DependentUpon>bisdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet3.xsc">
+      <DependentUpon>bisdbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet3.xss">
+      <DependentUpon>bisdbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet4.xsc">
+      <DependentUpon>bisdbDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet4.xss">
+      <DependentUpon>bisdbDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet5.xsc">
+      <DependentUpon>bisdbDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet5.xss">
+      <DependentUpon>bisdbDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet6.xsc">
+      <DependentUpon>bisdbDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet6.xss">
+      <DependentUpon>bisdbDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet7.xsc">
+      <DependentUpon>bisdbDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet7.xss">
+      <DependentUpon>bisdbDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet8.xsc">
+      <DependentUpon>bisdbDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet8.xss">
+      <DependentUpon>bisdbDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet9.xsc">
+      <DependentUpon>bisdbDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet9.xss">
+      <DependentUpon>bisdbDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live Messenger_mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gadj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zsvds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zsvds1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admission_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zsvds2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad_mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad_mirror1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad_mirror2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live Sync.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live SyncNEW.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live SyncNEW1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live SyncNEW2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

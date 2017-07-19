@@ -1,0 +1,65 @@
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.exe
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.AARALK.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.LeaveRequest.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Payroll.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Report.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffDetail.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffFamily.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffMainForm.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Termination.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Vacancy.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.exe
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.exe.manifest
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.application
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.exe.manifest
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.application
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\StaffMain.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\StaffMain.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\StaffMain.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.AARALK.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.LeaveRequest.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Payroll.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Report.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.StaffDetail.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.StaffMainForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Termination.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Vacancy.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\bin\Debug\StaffMain.dll.config
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\bin\Debug\StaffMain.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\bin\Debug\StaffMain.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.AARALK.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.LeaveRequest.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Payroll.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Properties.Resources.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Report.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.StaffDetail.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.StaffMainForm.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Termination.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.Vacancy.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\StaffMain\obj\Debug\StaffMain.pdb

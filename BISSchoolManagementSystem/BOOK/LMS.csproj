@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E58C7B01-C42E-494D-A8E3-9DBACD12E442}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BOOK</RootNamespace>
+    <AssemblyName>BOOK</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\MetroFramework_Version1.3.5\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\MetroFramework_Version1.3.5\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\MetroFramework_Version1.3.5\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bookreturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bookreturn.Designer.cs">
+      <DependentUpon>bookreturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBAccessBook.cs" />
+    <Compile Include="DBAccessCat.cs" />
+    <Compile Include="DBAccessMember.cs" />
+    <Compile Include="DBAccessPurchase.cs" />
+    <Compile Include="LMSMAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LMSMAIN.Designer.cs">
+      <DependentUpon>LMSMAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lending.Designer.cs">
+      <DependentUpon>Lending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="book.Designer.cs">
+      <DependentUpon>book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedIn.cs" />
+    <Compile Include="originalmember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="originalmember.Designer.cs">
+      <DependentUpon>originalmember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase.Designer.cs">
+      <DependentUpon>Purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffReservation.Designer.cs">
+      <DependentUpon>StaffReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sudheesanDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sudheesanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sudheesanDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sudheesanDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sudheesanDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sudheesanDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sudheesanDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sudheesanDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sudheesanDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sudheesanDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="validatetext.cs" />
+    <EmbeddedResource Include="bookreturn.resx">
+      <DependentUpon>bookreturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LMSMAIN.resx">
+      <DependentUpon>LMSMAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lending.resx">
+      <DependentUpon>Lending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="book.resx">
+      <DependentUpon>book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="originalmember.resx">
+      <DependentUpon>originalmember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Purchase.resx">
+      <DependentUpon>Purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffReservation.resx">
+      <DependentUpon>StaffReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sudheesanDataSet.xsc">
+      <DependentUpon>sudheesanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sudheesanDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sudheesanDataSet.xss">
+      <DependentUpon>sudheesanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet1.xsc">
+      <DependentUpon>sudheesanDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sudheesanDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sudheesanDataSet1.xss">
+      <DependentUpon>sudheesanDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet2.xsc">
+      <DependentUpon>sudheesanDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sudheesanDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sudheesanDataSet2.xss">
+      <DependentUpon>sudheesanDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet3.xsc">
+      <DependentUpon>sudheesanDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sudheesanDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sudheesanDataSet3.xss">
+      <DependentUpon>sudheesanDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet4.xsc">
+      <DependentUpon>sudheesanDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="sudheesanDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sudheesanDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sudheesanDataSet4.xss">
+      <DependentUpon>sudheesanDataSet4.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SQLServerDatabaseAccess\SQLServerDatabaseAccess.csproj">
+      <Project>{078e89b9-c6ee-4ac9-86c6-cf537ca3a000}</Project>
+      <Name>SQLServerDatabaseAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

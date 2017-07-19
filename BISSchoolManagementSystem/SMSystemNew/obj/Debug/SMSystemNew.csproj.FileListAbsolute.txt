@@ -1,0 +1,35 @@
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.exe.config
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.exe
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.pdb
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\bin\Debug\MetroFramework.dll
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Properties.Resources.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.csproj.GenerateResource.Cache
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.exe
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.pdb
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Form1.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.studentDetails.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Form3.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.admission.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.payment.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.update.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.admissionfinal.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.studentfinal.resources
+C:\Users\Piratheepan\Desktop\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\bin\Debug\SMSystemNew.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\bin\Debug\SMSystemNew.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\bin\Debug\SMSystemNew.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.admission.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.admissionfinal.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.studentDetails.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.Form3.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.payment.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.studentfinal.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.update.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SMSystemNew\obj\Debug\SMSystemNew.pdb

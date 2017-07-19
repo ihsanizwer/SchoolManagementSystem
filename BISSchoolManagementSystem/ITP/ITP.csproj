@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A7F2BB0-B0FA-478D-94E1-F69E175F6162}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITP</RootNamespace>
+    <AssemblyName>ITP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\Desktop\ISO Image+Soft\MetroFramework_Version1.3.5\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\..\Desktop\ISO Image+Soft\MetroFramework_Version1.3.5\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\..\Desktop\ISO Image+Soft\MetroFramework_Version1.3.5\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionManager.cs" />
+    <Compile Include="DBAccessItemsTile.cs" />
+    <Compile Include="DBAccessSuppliersTile.cs" />
+    <Compile Include="DBAccessTransactionTile.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryHome.Designer.cs">
+      <DependentUpon>InventoryHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsTile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemsTile.Designer.cs">
+      <DependentUpon>ItemsTile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedIn.cs" />
+    <Compile Include="SuppliersTile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuppliersTile.Designer.cs">
+      <DependentUpon>SuppliersTile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionTile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionTile.Designer.cs">
+      <DependentUpon>TransactionTile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsamaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UsamaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UsamaDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UsamaDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UsamaDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UsamaDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UsamaDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UsamaDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="validatetext.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryHome.resx">
+      <DependentUpon>InventoryHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsTile.resx">
+      <DependentUpon>ItemsTile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuppliersTile.resx">
+      <DependentUpon>SuppliersTile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransactionTile.resx">
+      <DependentUpon>TransactionTile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UsamaDataSet1.xsc">
+      <DependentUpon>UsamaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UsamaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UsamaDataSet1.xss">
+      <DependentUpon>UsamaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet3.xsc">
+      <DependentUpon>UsamaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UsamaDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UsamaDataSet3.xss">
+      <DependentUpon>UsamaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet4.xsc">
+      <DependentUpon>UsamaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UsamaDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UsamaDataSet4.xss">
+      <DependentUpon>UsamaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet7.xsc">
+      <DependentUpon>UsamaDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="UsamaDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UsamaDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UsamaDataSet7.xss">
+      <DependentUpon>UsamaDataSet7.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

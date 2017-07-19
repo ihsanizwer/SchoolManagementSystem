@@ -1,0 +1,62 @@
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\performance\performance\bin\Debug\performance.exe.config
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\performance.exe
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\MetroFramework.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.Properties.Resources.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.exe
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.ManageExtraCurricular.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.ManagePerformance.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.PerformanceMenu.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+J:\SMS\performance\performance\bin\Debug\performance.exe.config
+J:\SMS\performance\performance\obj\Debug\performance.exe
+J:\SMS\performance\performance\obj\Debug\performance.pdb
+J:\SMS\performance\performance\bin\Debug\performance.exe
+J:\SMS\performance\performance\bin\Debug\performance.pdb
+J:\SMS\performance\performance\bin\Debug\SQLServerDatabaseAccess.dll
+J:\SMS\performance\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+J:\SMS\performance\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+J:\SMS\performance\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+J:\SMS\performance\performance\obj\Debug\performance.ManageExtraCurricular.resources
+J:\SMS\performance\performance\obj\Debug\performance.ManagePerformance.resources
+J:\SMS\performance\performance\obj\Debug\performance.PerformanceMenu.resources
+J:\SMS\performance\performance\obj\Debug\performance.Properties.Resources.resources
+J:\SMS\performance\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\bin\Debug\performance.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\bin\Debug\performance.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\bin\Debug\performance.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.ManageExtraCurricular.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.ManagePerformance.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.PerformanceMenu.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\performance\obj\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\bin\Debug\performance.dll.config
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\bin\Debug\performance.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\bin\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.ManageExtraCurricular.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.ManagePerformance.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.PerformanceMenu.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.Properties.Resources.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.ManageTeam.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.ProgressReport.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\performance\obj\Debug\performance.Certificate.resources

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{977D9D34-0C0E-4463-A814-7C1B70262022}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AMS_Final</RootNamespace>
+    <AssemblyName>AMS-Final</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\WindowsFormsApplication2\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\WindowsFormsApplication2\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\WindowsFormsApplication2\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionManager.cs" />
+    <Compile Include="DBAccess.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedIn.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salaryAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salaryAttendance.Designer.cs">
+      <DependentUpon>salaryAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffAttendance.Designer.cs">
+      <DependentUpon>staffAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffSalaryDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffSalaryDetails.Designer.cs">
+      <DependentUpon>staffSalaryDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentAttend.cs" />
+    <Compile Include="StudentAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentAttendance.Designer.cs">
+      <DependentUpon>StudentAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentValidate.cs" />
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salaryAttendance.resx">
+      <DependentUpon>salaryAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffAttendance.resx">
+      <DependentUpon>staffAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffSalaryDetails.resx">
+      <DependentUpon>staffSalaryDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentAttendance.resx">
+      <DependentUpon>StudentAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student_male_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conference_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banknotes_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resume_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_card_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_96px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

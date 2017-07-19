@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0CA0AE3D-22EC-4B80-9839-E91999578807}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>performance</RootNamespace>
+    <AssemblyName>performance</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\MetroFramework_Version1.3.5\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\MetroFramework_Version1.3.5\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\MetroFramework_Version1.3.5\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CertEx.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CertEx.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Certificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Certificate.Designer.cs">
+      <DependentUpon>Certificate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataCon.cs" />
+    <Compile Include="LoggedIn.cs" />
+    <Compile Include="ManageAwardsPrizes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAwardsPrizes.Designer.cs">
+      <DependentUpon>ManageAwardsPrizes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageExtraCurricular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageExtraCurricular.Designer.cs">
+      <DependentUpon>ManageExtraCurricular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagePerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagePerformance.Designer.cs">
+      <DependentUpon>ManagePerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageTeam.Designer.cs">
+      <DependentUpon>ManageTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerfEx.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PerfEx.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerformanceMenu.Designer.cs">
+      <DependentUpon>PerformanceMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressReport.Designer.cs">
+      <DependentUpon>ProgressReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Certificate.resx">
+      <DependentUpon>Certificate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAwardsPrizes.resx">
+      <DependentUpon>ManageAwardsPrizes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageExtraCurricular.resx">
+      <DependentUpon>ManageExtraCurricular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagePerformance.resx">
+      <DependentUpon>ManagePerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageTeam.resx">
+      <DependentUpon>ManageTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceMenu.resx">
+      <DependentUpon>PerformanceMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressReport.resx">
+      <DependentUpon>ProgressReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="CertEx.xsc">
+      <DependentUpon>CertEx.xsd</DependentUpon>
+    </None>
+    <None Include="CertEx.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CertEx.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="CertEx.xss">
+      <DependentUpon>CertEx.xsd</DependentUpon>
+    </None>
+    <None Include="PerfEx.xsc">
+      <DependentUpon>PerfEx.xsd</DependentUpon>
+    </None>
+    <None Include="PerfEx.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PerfEx.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="PerfEx.xss">
+      <DependentUpon>PerfEx.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SQLServerDatabaseAccess\SQLServerDatabaseAccess.csproj">
+      <Project>{078e89b9-c6ee-4ac9-86c6-cf537ca3a000}</Project>
+      <Name>SQLServerDatabaseAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

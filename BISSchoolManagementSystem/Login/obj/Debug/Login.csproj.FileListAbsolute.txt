@@ -1,0 +1,109 @@
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\bin\Debug\Login.exe.config
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\bin\Debug\Login.exe
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\bin\Debug\Login.pdb
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\bin\Debug\MetroFramework.Design.dll
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\bin\Debug\MetroFramework.dll
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.LogIn.resources
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.exe
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.pdb
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Dashboard.resources
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\AdministrativeCommunicationSystem.exe
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\StaffMain.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\AdministrativeCommunicationSystem.pdb
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\StaffMain.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\Login.exe
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\Login.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\AdministrativeCommunicationSystem.exe
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\BOOK.exe
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\performance.exe
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\Schedular.dll
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\SMSystemNew.exe
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\Schedular.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\SMSystemNew.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\BOOK.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\StaffMain.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\AMS-Final.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\AdministrativeCommunicationSystem.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\performance.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.LogIn.resources
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.exe
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\obj\Debug\Login.pdb
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\StaffMain.dll
+C:\Users\Neruppuda\Desktop\SMS\Login\Login\bin\Debug\AMS-Final.dll
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.LogIn.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.LogIn.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\Login.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\Login.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\Login.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\AdministrativeCommunicationSystem.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\AMS-Final.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\BOOK.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\ITP.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\performance.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\Schedular.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\SMSystemNew.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\StaffMain.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\ITP.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\Schedular.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\SMSystemNew.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\BOOK.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\StaffMain.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\AMS-Final.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\AdministrativeCommunicationSystem.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\performance.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\Login\obj\Debug\Login.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\Login.exe.config
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.exe
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\Login.exe
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\Login.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\AdministrativeCommunicationSystem.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\AMS-Final.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\BOOK.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\ITP.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\performance.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\Schedular.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\SMSystemNew.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\StaffMain.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\ITP.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\Schedular.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\SMSystemNew.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\BOOK.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\StaffMain.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\AMS-Final.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\AdministrativeCommunicationSystem.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.LogIn.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\Login\obj\Debug\Login.csproj.GenerateResource.Cache

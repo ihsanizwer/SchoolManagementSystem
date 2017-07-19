@@ -1,0 +1,18 @@
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll.config
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\BISSchoolManagementSystem\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll.config
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Desktop\itp\BISSchoolManagementSystem\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.pdb
